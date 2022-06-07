@@ -22,6 +22,10 @@ p {
   flex: 1;
   background-color: red;
 }
+.redExample4 {
+  flex: 1;
+  background-color: red;
+}
 
 /*--- Since both .redExample and .blueExample have flex: 1, they will take up an equal amount of space because they meet in the middle ---*/
 .blueExample {
@@ -40,5 +44,8 @@ p {
   width: 80px;
   background-color: blue;
 }
-
+.redExample5 {
+  width: 80px;
+  background-color: red;
+}
 /* TODO: Add CSS for the rest of your solution below */
