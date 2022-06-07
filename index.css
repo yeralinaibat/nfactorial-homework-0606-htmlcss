@@ -19,17 +19,17 @@ p {
 .wrapper5 {
   display: flex;
   justify-content: space-between;
-  box-sizing: border-box;
+
   height: 60px;
   background-color: green;
   margin-bottom: 20px;
 }
 .wrapper6 {
   display: flex;
-  justify-content: space-between;
-  box-sizing: border-box;
+  justify-content: space-evenly;
+
   height: 60px;
-  background-color: green;
+  background-color: yellow;
   margin-bottom: 20px;
 }
 .wrapper2 {
@@ -119,15 +119,46 @@ p {
   background-color: green;
 }
 
-.orangeExample {
+.orangeExample1 {
   width: 80px;
-  height: 60px;
   background-color: orange;
 }
 .orangeExample2 {
   width: 80px;
-  height: 60px;
   background-color: orange;
+}
+.orangeExample3 {
+  width: 80px;
+  background-color: orange;
+}
+.orangeExample4 {
+  width: 80px;
+  background-color: orange;
+}
+.orangeExample5 {
+  width: 80px;
+  background-color: orange;
+}
+
+.greenExample1 {
+  width: 20px;
+  background-color: green;
+}
+.greenExample2 {
+  width: 20px;
+  background-color: green;
+}
+.greenExample3 {
+  width: 20px;
+  background-color: green;
+}
+.greenExample4 {
+  width: 20px;
+  background-color: green;
+}
+.greenExample5 {
+  width: 20px;
+  background-color: green;
 }
 
 /* TODO: Add CSS for the rest of your solution below */
