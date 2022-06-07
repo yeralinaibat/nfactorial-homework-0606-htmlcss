@@ -22,7 +22,7 @@ p {
 
   height: 60px;
   background-color: green;
-  margin-bottom: 20px;
+  margin: 0 0 20px;
 }
 .wrapper6 {
   display: flex;
@@ -120,6 +120,9 @@ p {
 }
 
 .orangeExample1 {
+  display: flex;
+
+  /* margin: 0 5px; */
   width: 80px;
   background-color: orange;
 }
@@ -127,6 +130,7 @@ p {
 .greenExample1 {
   width: 20px;
   background-color: green;
+  display: flex;
 }
 
 /* TODO: Add CSS for the rest of your solution below */
